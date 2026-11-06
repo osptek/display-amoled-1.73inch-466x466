@@ -1,0 +1,10 @@
+id: AM173M466466FLS2
+category: displays
+size: "1.73"
+panel: amoled
+resolution: 466x466
+interface: [mipi]
+driver: CO5300
+touch: CST9217
+outline: 50.00 x 50.00 x 2.06 mm
+active_area: "Φ43.76 mm"
