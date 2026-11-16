@@ -46,9 +46,9 @@
 | 规格文档 | [`CO_5300_Datasheet_V0_00_20230328_07edb82936.pdf`](./datasheets/CO_5300_Datasheet_V0_00_20230328_07edb82936.pdf) |
 | 规格文档 | [`DS_CST_820_V1_2_e0543732ca.pdf`](./datasheets/DS_CST_820_V1_2_e0543732ca.pdf) |
 | 规格文档 | [`AM_173_Q466466_FLS_c3c39f821c.pdf`](./datasheets/AM_173_Q466466_FLS_c3c39f821c.pdf) |
-| CAD 图纸 | [`OK-23GF024-04.pdf`](./cad/OK-23GF024-04.pdf) |
 | 转接板资料 | [`1.73寸AMOLED转接板原理图.png`](./adapter/1.73%E5%AF%B8AMOLED%E8%BD%AC%E6%8E%A5%E6%9D%BF%E5%8E%9F%E7%90%86%E5%9B%BE.png) |
 | 转接板资料 | [`PCB-1.73寸AMOLED屏QSPI转接板.pdf`](./adapter/PCB-1.73%E5%AF%B8AMOLED%E5%B1%8FQSPI%E8%BD%AC%E6%8E%A5%E6%9D%BF.pdf) |
+| 其他资料 | [`OK-23GF024-04.pdf`](./misc/OK-23GF024-04.pdf) |
 
 ## 仓库结构
 
@@ -61,8 +61,8 @@ display-amoled-1.73inch-466x466/ # 仓库根（导航见 ../../README.md，示�
         ├── osptek.yml
         ├── images/
         ├── datasheets/       # 产品规格书 + 驱动/触摸 IC 数据手册
-        ├── cad/              # 外形/盖板 CAD
-        └── adapter/          # 转接板资料 + 转接板图片
+        ├── adapter/          # 转接板资料 + 转接板图片
+        └── misc/             # 其他资料
 ```
 
 ## 购买链接

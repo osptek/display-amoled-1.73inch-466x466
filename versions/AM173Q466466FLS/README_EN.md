@@ -46,9 +46,9 @@
 | Datasheet | [`CO_5300_Datasheet_V0_00_20230328_07edb82936.pdf`](./datasheets/CO_5300_Datasheet_V0_00_20230328_07edb82936.pdf) |
 | Datasheet | [`DS_CST_820_V1_2_e0543732ca.pdf`](./datasheets/DS_CST_820_V1_2_e0543732ca.pdf) |
 | Datasheet | [`AM_173_Q466466_FLS_c3c39f821c.pdf`](./datasheets/AM_173_Q466466_FLS_c3c39f821c.pdf) |
-| CAD file | [`OK-23GF024-04.pdf`](./cad/OK-23GF024-04.pdf) |
 | Adapter materials | [`1.73寸AMOLED转接板原理图.png`](./adapter/1.73%E5%AF%B8AMOLED%E8%BD%AC%E6%8E%A5%E6%9D%BF%E5%8E%9F%E7%90%86%E5%9B%BE.png) |
 | Adapter materials | [`PCB-1.73寸AMOLED屏QSPI转接板.pdf`](./adapter/PCB-1.73%E5%AF%B8AMOLED%E5%B1%8FQSPI%E8%BD%AC%E6%8E%A5%E6%9D%BF.pdf) |
+| Other | [`OK-23GF024-04.pdf`](./misc/OK-23GF024-04.pdf) |
 
 ## Repository layout
 
@@ -61,8 +61,8 @@ display-amoled-1.73inch-466x466/ # repo root (nav: ../../README_EN.md; sample pr
         ├── osptek.yml
         ├── images/
         ├── datasheets/       # product datasheet + driver/touch IC datasheets
-        ├── cad/              # outline/cover CAD
-        └── adapter/          # adapter board materials + photos
+        ├── adapter/          # adapter board materials + photos
+        └── misc/             # other materials
 ```
 
 ## Buy
