@@ -4,4 +4,4 @@
 # CMakeLists in this exact order for cmake to work correctly
 cmake_minimum_required(VERSION 3.5)
 include($ENV{IDF_PATH}/tools/cmake/project.cmake)
-project(esp32s3-idf5_co5300-qspi_osptek-boot-anim_lvgl9)
+project(esp32s3-idf5_co5300-qspi-466x466_osptek-boot-anim_lvgl9-te)
