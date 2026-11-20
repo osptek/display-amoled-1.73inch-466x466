@@ -15,6 +15,6 @@ They are reference code; adjust pins, backlight, touch and other settings to you
 | [`esp32s3-idf5-co5300-qspi-lvgl-adapter-lvgl9-te`](./esp32s3-idf5-co5300-qspi-lvgl-adapter-lvgl9-te/) | ESP32-S3 · ESP-IDF 5 | CO5300 | QSPI | LVGL 9、TE 防撕裂 / LVGL 9, TE tear-free |
 | [`esp32s3-idf5_co5300-qspi-466x466_osptek-boot-anim_lvgl9-te`](./esp32s3-idf5_co5300-qspi-466x466_osptek-boot-anim_lvgl9-te/) | ESP32-S3 · ESP-IDF 5 | CO5300 | QSPI | 开机动画+LVGL 9、TE 防撕裂 / Boot Animation+LVGL 9, TE tear-free |
 | [`esp32s31-idf6_co5300-qspi-466x466_osptek-boot-anim_lvgl9-te`](./esp32s31-idf6_co5300-qspi-466x466_osptek-boot-anim_lvgl9-te/) | ESP32-S31 · ESP-IDF 6 | CO5300 | QSPI | 开机动画+LVGL 9、TE 防撕裂 / Boot Animation+LVGL 9, TE tear-free |
-| [`esp32p4-idf6_co5300-mipi-466x466_osptek-boot-anim_lvgl9_tear-resistant`](./esp32p4-idf6_co5300-mipi-466x466_osptek-boot-anim_lvgl9_tear-resistant/) | ESP32-P4 · ESP-IDF 6 | CO5300 | QSPI | 开机动画+LVGL 9+防撕裂 / Boot Animation+LVGL 9+tear-free |
+| [`esp32p4-idf6_co5300-mipi-466x466_osptek-boot-anim_lvgl9_tear-resistant`](./esp32p4-idf6_co5300-mipi-466x466_osptek-boot-anim_lvgl9_tear-resistant/) | ESP32-P4 · ESP-IDF 6 | CO5300 | MIPI | 开机动画+LVGL 9+防撕裂 / Boot Animation+LVGL 9+tear-free |
 
 如有问题请联系技术支持。 / Contact technical support if you have questions.
