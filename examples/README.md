@@ -16,5 +16,6 @@ They are reference code; adjust pins, backlight, touch and other settings to you
 | [`esp32s3-idf5_co5300-qspi-466x466_osptek-boot-anim_lvgl9-te`](./esp32s3-idf5_co5300-qspi-466x466_osptek-boot-anim_lvgl9-te/) | ESP32-S3 · ESP-IDF 5 | CO5300 | QSPI | 开机动画+LVGL 9、TE 防撕裂 / Boot Animation+LVGL 9, TE tear-free |
 | [`esp32s31-idf6_co5300-qspi-466x466_osptek-boot-anim_lvgl9-te`](./esp32s31-idf6_co5300-qspi-466x466_osptek-boot-anim_lvgl9-te/) | ESP32-S31 · ESP-IDF 6 | CO5300 | QSPI | 开机动画+LVGL 9、TE 防撕裂 / Boot Animation+LVGL 9, TE tear-free |
 | [`esp32p4-idf6_co5300-mipi-466x466_osptek-boot-anim_lvgl9_tear-resistant`](./esp32p4-idf6_co5300-mipi-466x466_osptek-boot-anim_lvgl9_tear-resistant/) | ESP32-P4 · ESP-IDF 6 | CO5300 | MIPI | 开机动画+LVGL 9+防撕裂 / Boot Animation+LVGL 9+tear-free |
+| [`rk3506-buildroot-co5300-mipi-466x466`](./rk3506-buildroot-co5300-mipi-466x466/) | Rockchip RK3506 · Linux | CO5300 | MIPI | 设备树与触摸驱动参考、I2C 触摸驱动添加指南 / Device tree and touch driver reference, I2C touch driver guide |
 
 如有问题请联系技术支持。 / Contact technical support if you have questions.
